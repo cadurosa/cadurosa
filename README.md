@@ -1,16 +1,27 @@
-### Hi there 👋
+## Saudações! Me chamo Carlos Eduardo. <h2>
+  
+  * 🎓 Estou no primeiro período de ADS.
+  * ✔️ Lógica de Programação.
+  * 🐍 Atualmente estudando Python
 
-<!--
-**cadurosa/cadurosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <a href="https://beacons.ai/cadurosa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadurosa&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadurosa&layout=compact&langs_count=16&theme=dark"/>
+ <div>
+   
+ <div style="display: inline_block"><br>
+   <img align="center" alt="Cadu-Python" height="60" width="120" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+ </div>
+ 
+ ##
+   
+<div>
+  <a href="https://www.instagram.com/caduuurosa" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    target="_blank"></a>
+  <a href="https://twitch.tv/cccadu" target="_blank"><img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+    target="_blank"></a>
+</a>
+   <a href="https://www.linkedin.com/in/cadurosa" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    target="_blank"></a>
+     </div>
