@@ -1,4 +1,4 @@
-## Saudações! Me chamo Carlos Eduardo. <h2>
+## Saudações! Eu sou o Cadu. <h2>
   
   * 🎓 Estou no primeiro período de ADS.
   * ✔️ Lógica de Programação.
@@ -18,8 +18,6 @@
    
 <div>
   <a href="https://www.instagram.com/caduuurosa" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    target="_blank"></a>
-  <a href="https://twitch.tv/cccadu" target="_blank"><img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
     target="_blank"></a>
 </a>
    <a href="https://www.linkedin.com/in/cadurosa" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
