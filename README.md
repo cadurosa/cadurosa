@@ -1,5 +1,8 @@
 ## Saudações! Eu sou o Cadu. <h2>
 
+  * ✔️ Lógica de Programação
+  * 🐍 Atualmente estudando Python
+  
   <div>
     <a href="https://beacons.ai/cadurosa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadurosa&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
