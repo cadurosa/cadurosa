@@ -24,6 +24,5 @@
     target="_blank"></a>
   
 ![Snake animation](https://github.com/cadurosa/cadurosa/blob/output/github-contribution-grid-snake.svg)
-  
    </div>
    
