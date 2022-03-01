@@ -1,8 +1,4 @@
 ## Saudações! Eu sou o Cadu. <h2>
-  
-  * 🎓 Estou no primeiro período de ADS.
-  * ✔️ Lógica de Programação.
-  * 🐍 Atualmente estudando Python
 
   <div>
     <a href="https://beacons.ai/cadurosa">
