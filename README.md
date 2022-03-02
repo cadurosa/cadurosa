@@ -1,7 +1,7 @@
 ## Saudações! Eu sou o Cadu. <h2>
 
   * ✔️ Lógica de Programação
-  * 🐍 Atualmente estudando Python
+  * ☕️ Atualmente estudando JavaScript
   
   <div>
     <a href="https://beacons.ai/cadurosa">
@@ -9,7 +9,7 @@
  <div>
    
  <div style="display: inline_block"><br>
-   <img align="center" alt="Cadu-Python" height="60" width="120" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+   <img align="center" alt="Cadu-JAVA" height="60" width="120" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
  </div>
  
  ##
