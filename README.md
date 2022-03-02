@@ -4,12 +4,12 @@
   * ☕️ Atualmente estudando JavaScript
   
   <div>
-    <a href="https://beacons.ai/cadurosa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadurosa&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
  <div>
    
  <div style="display: inline_block"><br>
    <img align="center" alt="Cadu-JAVA" height="60" width="120" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+      <a href="https://beacons.ai/cadurosa">
  </div>
  
  ##
