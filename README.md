@@ -1,7 +1,7 @@
-## Saudações! Eu sou o Cadu. <h2>
+## Saudações! Eu sou o Cadu. <h1>
 
-  * ✔️ Lógica de Programação
-  * ☕️ Atualmente estudando JavaScript
+  * ✔️ Lógica de Programação.
+  * ☕️ Atualmente estudando JavaScript.
   
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadurosa&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
